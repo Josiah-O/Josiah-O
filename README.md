@@ -14,6 +14,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/-AI%20Systems-black?style=flat-square" />
+    <img src="https://img.shields.io/badge/-Blockchain-black?style=flat-square" />
     <img src="https://img.shields.io/badge/-Product%20Strategy-black?style=flat-square" />
     <img src="https://img.shields.io/badge/-Technical%20Architecture-black?style=flat-square" />
   </p>
