@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://img.shields.io/badge/Technical%20Product%20Manager%20%7C%20AI%20Engineer-black?style=for-the-badge" alt="Role" />
+    <img src="https://img.shields.io/badge/Product%20Engineer%20%7C%20AI%20Engineer-black?style=for-the-badge" alt="Role" />
   </h1>
     <a href="mailto:buildwithjosiah@gmail.com">
       <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
