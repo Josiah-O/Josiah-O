@@ -20,14 +20,6 @@
   </p>
 </div>
 
-## 🚀 Featured Projects
-
-### [ScanSwarm](https://github.com/Josiah-O/ScanSwarm)
-> AI-powered token analysis system using multi-agent architecture
-- 🤖 Built on Swarms Framework
-- 📊 Automated chart analysis
-- 🔄 Real-time token screening
-- 🛠️ Tech: Python, Playwright, OpenAI
 
 ### [Other Notable Projects]
 *(coming soon!)*
